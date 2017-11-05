@@ -1,0 +1,11 @@
+{
+    "name": "studentresources",
+    "description": "Student Resources Api",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x",
+        "mongodb": "^2.2.33",
+        "mongoose": "^4.12.5"
+    }
+}
